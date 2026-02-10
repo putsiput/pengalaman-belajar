@@ -13,3 +13,7 @@ Belajar kelas Git dan GitHub. (Progress 38%)
 **10 Februari 2026**<br>
 Belajar kelas Git dan GitHub. (Progress 39%)
 * Menambahkan kembali progress belajar
+
+**10 Februari 2026**<br>
+Belajar kelas Git dan GitHub. (Progress 64%)
+* Membahas tentang kolaborasi dengan Tim
